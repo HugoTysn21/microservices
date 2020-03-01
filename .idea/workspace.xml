@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="402f136e-e1a5-4469-9cc6-b8935fe079f4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YCJm1nyCCuelvHLw8exoHJ0dfI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.clientUI.clientUI" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.clientUI.clientUI.exceptions" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ApiGatewayApplication">
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="authentification" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="authentification" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="api-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tpms.apigateway.ApiGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AuthentificationApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="authentification" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.microservicetphl.authentification.AuthentificationApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientUiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="clientUI" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.clientUI.clientUI.ClientUiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tpms.eurekaserver.EurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UsersApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="users" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.microservicetphl.users.UsersApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="402f136e-e1a5-4469-9cc6-b8935fe079f4" name="Default Changelist" comment="" />
+      <created>1582440797433</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582440797433</updated>
+      <workItem from="1582440799691" duration="15111000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="458" y="212" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1582467218181">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="212" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1440.900/1440.0.2560.1440@0.0.1440.900" timestamp="1582467218181" />
+    <state x="533" y="133" key="#com.intellij.ide.util.MemberChooser" timestamp="1582485671130">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="133" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900/1440.0.2560.1440@0.0.1440.900" timestamp="1582485671130" />
+    <state x="533" y="133" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900/1440.23.2560.1417@0.0.1440.900" timestamp="1582459384897" />
+    <state x="281" y="376" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1582446489779">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="281" y="376" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1440.900/1440.0.2560.1440@0.0.1440.900" timestamp="1582446489779" />
+    <state x="481" y="326" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1582446493632">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="481" y="326" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1440.900/1440.0.2560.1440@0.0.1440.900" timestamp="1582446493632" />
+    <state width="846" height="123" key="GridCell.Tab.0.bottom" timestamp="1582638511224">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="846" height="123" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1582638511224" />
+    <state width="958" height="264" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.2560.1440@0.0.1440.900" timestamp="1582486027893" />
+    <state width="846" height="11" key="GridCell.Tab.0.bottom/0.23.1280.703@0.23.1280.703" timestamp="1582476385759" />
+    <state width="846" height="123" key="GridCell.Tab.0.center" timestamp="1582638511223">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="846" height="123" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1582638511223" />
+    <state width="958" height="264" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.2560.1440@0.0.1440.900" timestamp="1582486027890" />
+    <state width="846" height="11" key="GridCell.Tab.0.center/0.23.1280.703@0.23.1280.703" timestamp="1582476385755" />
+    <state width="846" height="123" key="GridCell.Tab.0.left" timestamp="1582638511223">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="846" height="123" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1582638511223" />
+    <state width="958" height="264" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.2560.1440@0.0.1440.900" timestamp="1582486027888" />
+    <state width="846" height="11" key="GridCell.Tab.0.left/0.23.1280.703@0.23.1280.703" timestamp="1582476385754" />
+    <state width="846" height="123" key="GridCell.Tab.0.right" timestamp="1582638511224">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="846" height="123" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1582638511224" />
+    <state width="958" height="264" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.2560.1440@0.0.1440.900" timestamp="1582486027892" />
+    <state width="846" height="11" key="GridCell.Tab.0.right/0.23.1280.703@0.23.1280.703" timestamp="1582476385757" />
+    <state width="846" height="123" key="GridCell.Tab.1.bottom" timestamp="1582638511226">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="846" height="123" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1582638511226" />
+    <state width="958" height="264" key="GridCell.Tab.1.bottom/0.0.1440.900/1440.0.2560.1440@0.0.1440.900" timestamp="1582486027896" />
+    <state width="846" height="11" key="GridCell.Tab.1.bottom/0.23.1280.703@0.23.1280.703" timestamp="1582476385762" />
+    <state width="846" height="123" key="GridCell.Tab.1.center" timestamp="1582638511225">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="846" height="123" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1582638511225" />
+    <state width="958" height="264" key="GridCell.Tab.1.center/0.0.1440.900/1440.0.2560.1440@0.0.1440.900" timestamp="1582486027894" />
+    <state width="846" height="11" key="GridCell.Tab.1.center/0.23.1280.703@0.23.1280.703" timestamp="1582476385760" />
+    <state width="846" height="123" key="GridCell.Tab.1.left" timestamp="1582638511224">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="846" height="123" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1582638511224" />
+    <state width="958" height="264" key="GridCell.Tab.1.left/0.0.1440.900/1440.0.2560.1440@0.0.1440.900" timestamp="1582486027893" />
+    <state width="846" height="11" key="GridCell.Tab.1.left/0.23.1280.703@0.23.1280.703" timestamp="1582476385760" />
+    <state width="846" height="123" key="GridCell.Tab.1.right" timestamp="1582638511226">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="846" height="123" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1582638511226" />
+    <state width="958" height="264" key="GridCell.Tab.1.right/0.0.1440.900/1440.0.2560.1440@0.0.1440.900" timestamp="1582486027895" />
+    <state width="846" height="11" key="GridCell.Tab.1.right/0.23.1280.703@0.23.1280.703" timestamp="1582476385761" />
+    <state x="332" y="70" key="NewModule_or_Project.wizard" timestamp="1582484630094">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="332" y="70" key="NewModule_or_Project.wizard/0.0.1440.900/1440.0.2560.1440@0.0.1440.900" timestamp="1582484630094" />
+    <state x="2030" y="112" key="NewModule_or_Project.wizard/0.0.1440.900/1440.0.2560.1440@1440.0.2560.1440" timestamp="1582475363665" />
+    <state x="208" y="23" width="1024" height="800" key="SettingsEditor" timestamp="1582484657600">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="208" y="23" width="1024" height="800" key="SettingsEditor/0.0.1440.900/1440.0.2560.1440@0.0.1440.900" timestamp="1582484657600" />
+    <state x="1810" y="50" key="SettingsEditor/0.0.1440.900/1440.0.2560.1440@1440.0.2560.1440" timestamp="1582475428649" />
+    <state x="385" y="210" key="run.anything.popup" timestamp="1582440837487">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="210" key="run.anything.popup/0.0.1440.900/1440.0.2560.1440@0.0.1440.900" timestamp="1582440837487" />
+  </component>
+</project>
